@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 altering text 3 in master
-=======
-altering text 3 on first branch
->>>>>>> first_branch
